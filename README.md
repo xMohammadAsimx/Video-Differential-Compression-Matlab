@@ -42,5 +42,7 @@ The implementation demonstrates fundamental concepts in multimedia security and 
 ---
 
 ## Notes
-
 This project focuses on conceptual clarity and correctness rather than aggressive compression efficiency. It is intended for educational and experimental purposes.
+
+The sample `.y4m` video file is not included in this repository due to file size constraints. Users are advised to provide their own `.y4m` video file and update the input filename accordingly in `main.m`.
+
