@@ -1,4 +1,4 @@
-% rgb4mpeg2mov function
+% Sample file not provided
 [mov, info] = rgb4mpeg2mov('./akiyo_cif.y4m');
 
 % To compress the original video
@@ -36,4 +36,5 @@ if maxPixelError == 0
 else
     fprintf('Some differnce was found. Max error = %d\n', maxPixelError);
 end
+
 
